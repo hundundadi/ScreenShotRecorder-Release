@@ -1,0 +1,6 @@
+# 白名单式忽略：默认全部拒绝，仅放行发布文档——杜绝源码/大文件误入库
+*
+!README.md
+!LICENSE
+!CHANGELOG.md
+!.gitignore
